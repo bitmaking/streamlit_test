@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("image.jpg", caption="this is my image", width=600)
+#st.image("image.jpg", caption="this is my image", width=600)
 #st.audio('audio.mp3')
 #st.video('video.mp4')
 
